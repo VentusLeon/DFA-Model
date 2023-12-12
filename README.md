@@ -1,0 +1,1 @@
+MyDFAModel.java takes a text file formatted in a particular way (MyDFA & DFA-Test are example files) and then converts its contents into a model of a working Deterministic Finite Automata. It then prompts the user for String inputs, and determines if they are in the language that is represented by the model.
